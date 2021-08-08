@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Notes
 
-This Project was conducted as part of an application to the Android Course offered by CodePath Organization Fall 2021.
+This Project was conducted as part of an application to the **Android** Course offered by CodePath Organization in the Fall of 2021.
 
 ## License
 
